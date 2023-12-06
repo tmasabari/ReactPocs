@@ -1,0 +1,60 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "quantity": 100,
+            "category": "Fruit",
+            "unitPrice": 0.5
+        },
+        {
+            "id": 2,
+            "name": "Banana",
+            "quantity": 200,
+            "category": "Fruit",
+            "unitPrice": 0.3
+        },
+        {
+            "id": 3,
+            "name": "Carrot",
+            "quantity": 150,
+            "category": "Vegetable",
+            "unitPrice": 0.4
+        },
+        {
+            "id": 4,
+            "name": "Orange",
+            "quantity": 80,
+            "category": "Fruit",
+            "unitPrice": 0.6
+        },
+        {
+            "id": 5,
+            "name": "Potato",
+            "quantity": 300,
+            "category": "Vegetable",
+            "unitPrice": 0.2
+        },
+        {
+            "id": 6,
+            "name": "Tomato",
+            "quantity": 120,
+            "category": "Vegetable",
+            "unitPrice": 0.35
+        },
+        {
+            "id": 7,
+            "name": "Grapes",
+            "quantity": 75,
+            "category": "Fruit",
+            "unitPrice": 0.55
+        },
+        {
+            "id": 8,
+            "name": "Onion",
+            "quantity": 180,
+            "category": "Vegetable",
+            "unitPrice": 0.25
+        }
+    ]
+}
